@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex_005 {
+public class Matrix {
     private static final int I = 3;
     private static final int J = 4;
     public static void main(String[] args){
