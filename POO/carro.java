@@ -27,7 +27,6 @@ public class carro {
 
             scanf.nextLine();
         }
-
         
         for(int i =0; i < meuCarro.length; i++){
 
@@ -37,8 +36,6 @@ public class carro {
             System.out.println("Ano: "+meuCarro[i].ano);
             System.out.println("Valor: R$ "+meuCarro[i].valor);
         }
-
-
 
         scanf.close();
     } 
