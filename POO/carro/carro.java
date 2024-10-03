@@ -7,6 +7,7 @@ public class carro {
             fabricante;
     int ano;
     float valor;
+    
     public static void main(String []args){
         Scanner scanf = new Scanner(System.in);
 
